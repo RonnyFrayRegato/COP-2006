@@ -1,0 +1,4 @@
+Student 1: Ronny
+Course: COP 2006
+Percentage: 78.0 %
+Grade: C
